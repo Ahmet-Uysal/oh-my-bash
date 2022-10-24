@@ -85,7 +85,7 @@ To use a different theme, simply change the value to match the name of your desi
 ```shell
 OSH_THEME="agnoster" # (this is one of the fancy ones)
 # you might need to install a special Powerline font on your console's host for this to work
-# see https://github.com/ohmybash/oh-my-bash/wiki/Themes#agnoster
+# see https://github.com/Ahmet-Uysal/oh-my-bash/wiki/Themes#agnoster
 ```
 
 Open up a new terminal window and your prompt should look something like this:
@@ -253,7 +253,7 @@ If you want to uninstall `oh-my-bash`, just run `uninstall_oh_my_bash` from the 
 
 I'm far from being a [Bash](https://www.gnu.org/software/bash/) expert and suspect there are many ways to improve – if you have ideas on how to make the configuration easier to maintain (and faster), don't hesitate to fork and send pull requests!
 
-We also need people to test out pull-requests. So take a look through [the open issues](https://github.com/ohmybash/oh-my-bash/issues) and help where you can.
+We also need people to test out pull-requests. So take a look through [the open issues](https://github.com/Ahmet-Uysal/oh-my-bash/issues) and help where you can.
 
 ## Contributors
 
